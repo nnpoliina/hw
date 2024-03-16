@@ -3,7 +3,7 @@
 В рамках анализа будет представлено изучение 3 распространенных репозиториев с web-серверами, размещенных на платформе [github.com](https://github.com). Выбор репозиториев был определен количеством отметок “Star” на репозитории.
 ## Traefik
 ### Количество запросов на тему “Traefik” за последние 5 лет
-![Снимок экрана (2)](https://github.com/nnpoliina/homework/assets/163640042/1d0a0083-4645-4861-af06-79367e1b804b)
+![Снимок экрана (2)](https://github.com/nnpoliina/hw/assets/163640042/c9f1f63b-f0d2-4d48-9971-bdf8b2d4dc0c)
 ### Показатели
 - **License:** MIT
 - **Stars:** 47.2k
@@ -28,7 +28,7 @@
 
 ## NGINX
 ### Количество запросов на тему “NGINX” за последние 5 лет
-![Снимок экрана (4)](https://github.com/nnpoliina/homework/assets/163640042/0b88650e-fad1-4b05-909c-d98363fa0804)
+![Снимок экрана (4)](https://github.com/nnpoliina/hw/assets/163640042/b7d1875c-481e-4c03-a2b6-54a5cc6f3389)
 ### Показатели
 - **License:** BSD
 - **Stars:** 20k
@@ -55,7 +55,7 @@ NGINX является популярным выбором для хостинг
 
 ## Apache HTTP Server
 ### Количество запросов на тему “Apache” за последние 5 лет
-![Снимок экрана (5)](https://github.com/nnpoliina/homework/assets/163640042/9a0cf70b-c4a8-49d1-b484-43b75648d436)
+![Снимок экрана (5)](https://github.com/nnpoliina/hw/assets/163640042/5b045d24-7463-4bf9-8b1a-398848c96796)
 ### Показатели
 - **License:** Apache-2.0
 - **Stars:** 3.4k
